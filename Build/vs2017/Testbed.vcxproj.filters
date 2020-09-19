@@ -15,6 +15,73 @@
     <ClInclude Include="..\..\Testbed\Tests\*.hpp">
       <Filter>Tests</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Testbed\Framework\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Framework\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Framework\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Framework\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Framework\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
+    <ClInclude Include="..\..\Testbed\Tests\*.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Testbed\Framework\*.cpp">
@@ -23,5 +90,13 @@
     <ClCompile Include="..\..\Testbed\Tests\*.cpp">
       <Filter>Tests</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Testbed\Framework\*.cpp" />
+    <ClCompile Include="..\..\Testbed\Framework\*.cpp" />
+    <ClCompile Include="..\..\Testbed\Framework\*.cpp" />
+    <ClCompile Include="..\..\Testbed\Framework\*.cpp" />
+    <ClCompile Include="..\..\Testbed\Framework\*.cpp" />
+    <ClCompile Include="..\..\Testbed\Framework\*.cpp" />
+    <ClCompile Include="..\..\Testbed\Framework\*.cpp" />
+    <ClCompile Include="..\..\Testbed\Framework\*.cpp" />
   </ItemGroup>
 </Project>
